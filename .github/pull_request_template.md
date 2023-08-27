@@ -5,8 +5,9 @@
 ## Checklist before requesting a review
 
 - [ ] I have performed a self-review of my code with manual test
-- [ ] I ran a code formatter before (any)
+- [ ] I ran prettier formater
+- [ ] I ran ESLint
 - [ ] I have added the necessary tests
 - [ ] I have successfully run all tests
 - [ ] I created issues for bugs and critical things
-- [ ] The README is up to date
+- [ ] I updated the README
